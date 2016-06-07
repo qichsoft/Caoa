@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://moa.dgca.cn/download/ios/CAOA_iPhone.ipa</string>
+					<string>https://raw.githubusercontent.com/qichsoft/Caoa/master/CAOA_iPhone.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://moa.dgca.cn/download/ios/iPhoneIcon/appicon_114.png</string>
+					<string>https://raw.githubusercontent.com/qichsoft/Caoa/master/appicon_114.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://moa.dgca.cn/download/ios/iPhoneIcon/appicon_57.png</string>
+					<string>https://raw.githubusercontent.com/qichsoft/Caoa/master/appicon_57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
