@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>CAOA</string>
+				<string>DGCA</string>
 				<key>bundle-version</key>
 				<string>1.082</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>DevelopedByGDDDLKJ</string>
 				<key>title</key>
-				<string>CAOA</string>
+				<string>DGCA</string>
 			</dict>
 		</dict>
 	</array>
